@@ -1,0 +1,33 @@
+{
+    "Needs": [
+        "Food",
+        "Rent",
+        "Electricity",
+        "Water bill",
+        "Internet",
+        "Other",
+        "Self care"
+    ],
+    "Savings": [
+        "Bank Savings"
+    ],
+    "Wants": [
+        "Cash",
+        "Concerts",
+        "Cosmetics",
+        "Eat out",
+        "Flights",
+        "Going out",
+        "Kaminka green stuff",
+        "Misc",
+        "Online shopping",
+        "Other",
+        "Revolut",
+        "Shopping",
+        "Takeaway",
+        "Transport",
+        "Uknown",
+        "VPN",
+        "Vivacom"
+    ]
+}
